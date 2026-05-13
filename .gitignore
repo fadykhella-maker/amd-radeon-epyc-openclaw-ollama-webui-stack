@@ -1,0 +1,20 @@
+# Secrets
+.env
+*.env
+openclaw.json
+config.yaml
+*.key
+*.pem
+*.crt
+secrets/
+
+# Logs and cache
+*.log
+logs/
+.cache/
+ollama/models/
+
+# Temporary
+*.bak
+backup/
+.DS_Store
