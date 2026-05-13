@@ -1,0 +1,15 @@
+State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                              
+LISTEN 0      4096       127.0.0.1:44991      0.0.0.0:*                                        
+LISTEN 0      4096   127.0.0.53%lo:53         0.0.0.0:*                                        
+LISTEN 0      4096       127.0.0.1:38147      0.0.0.0:*    users:(("ollama",pid=83618,fd=3))   
+LISTEN 0      511          0.0.0.0:80         0.0.0.0:*                                        
+LISTEN 0      4096         0.0.0.0:22         0.0.0.0:*                                        
+LISTEN 0      511          0.0.0.0:443        0.0.0.0:*                                        
+LISTEN 0      4096         0.0.0.0:3000       0.0.0.0:*                                        
+LISTEN 0      511        127.0.0.1:18791      0.0.0.0:*    users:(("openclaw",pid=68040,fd=26))
+LISTEN 0      4096      127.0.0.54:53         0.0.0.0:*                                        
+LISTEN 0      511          0.0.0.0:18789      0.0.0.0:*    users:(("openclaw",pid=68040,fd=25))
+LISTEN 0      4096       127.0.0.1:11434      0.0.0.0:*    users:(("ollama",pid=1371,fd=3))    
+LISTEN 0      511             [::]:80            [::]:*                                        
+LISTEN 0      4096            [::]:22            [::]:*                                        
+LISTEN 0      4096            [::]:3000          [::]:*                                        

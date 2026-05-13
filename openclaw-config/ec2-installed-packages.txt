@@ -1,0 +1,10 @@
+ii  docker.io                                        29.1.3-0ubuntu3~24.04.2                          amd64        Linux container runtime
+ii  nginx                                            1.24.0-2ubuntu7.7                                amd64        small, powerful, scalable web/proxy server
+ii  nginx-common                                     1.24.0-2ubuntu7.7                                all          small, powerful, scalable web/proxy server - common files
+ii  node-growl                                       1.10.5-4                                         all          unobtrusive notification system for nodejs
+ii  node-npm-run-path                                5.1.0+~4.0.0-8                                   all          Get your PATH prepended with locally installed binaries
+ii  node-pkg-dir                                     5.0.0-2                                          all          find the root directory of a npm package
+ii  node-validate-npm-package-license                3.0.4-2                                          all          Tells if a string is a valid npm package license string
+ii  nodejs                                           22.22.2-1nodesource1                             amd64        Node.js event-based server-side javascript engine
+rc  npm                                              9.2.0~ds1-2                                      all          package manager for Node.js
+ii  python3-certbot-nginx                            2.9.0-1                                          all          Nginx plugin for Certbot
